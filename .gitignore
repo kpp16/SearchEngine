@@ -1,0 +1,6 @@
+.env
+/env
+.vscode
+data
+__pycache__
+output.txt
